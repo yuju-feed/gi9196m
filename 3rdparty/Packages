@@ -1,0 +1,961 @@
+Package: enigma2-plugin-dvb-sundtek.controlcenter
+Version: 1.0-20110318-r2
+Section: extra
+Architecture: mipsel
+Maintainer: shocktsyle
+MD5Sum: 54b90ab202b10a2d8d920b0cb0d71fb5
+Size: 10140
+Filename: enigma2-plugin-dvb-sundtek.controlcenter_1.0-20110318-r2_mipsel.ipk
+Source: ihad
+Description: control sundtek usb stick from enigma2
+OE: sundtekcontrolcenter-1.0-20110318-r2
+HomePage: none
+Priority: optional
+
+
+Package: enigma2-plugin-extensions-airplayer
+Version: 0.3.9
+Section: extra
+Architecture: all
+Maintainer: hellmaster1024 and DonDavici <hellmaster1024 and DonDavici@code.google.com/p/airplayer/>
+MD5Sum: b0c862e749846521ea11eeae77ddf905
+Size: 166268
+Filename: enigma2-plugin-extensions-airplayer_0.3.9_mips32el.ipk
+Source: ftp://code.google.com/p/airplayer//hellmaster1024 and DonDavici/airplayer-0.3.9.tar.gz
+Description: Enigma2 Plugin AirPlayer by hellmaster1024 and DonDavici
+OE: airplayer-0.3.9
+HomePage: code.google.com/p/airplayer/
+Priority: optional
+
+
+Package: enigma2-plugin-extensions-atmolightd
+Version: 0.7-pre22
+Section: extra
+Architecture: all
+Maintainer: mamba0815 <mamba0815@gmx.li>
+MD5Sum: af17593ec8ad4a00c1fa843ccb17be6f
+Size: 851522
+Filename: enigma2-plugin-extensions-atmolightd_0.7-pre22_all.ipk
+Source: www.noip.com
+Description: Sedulight/Atmolight/amBXlight/Karatelight for Enigma2
+OE: 1.6
+HomePage: http://www.i-have-a-dreambox.com/wbb2/thread.php?threadid=136415
+Priority: optional
+
+
+Package: enigma2-plugin-extensions-autobouquets-e2
+Version: 201310201900-r2
+Section: extra
+Architecture: mips32el
+Maintainer: LraiZer
+MD5Sum: e0ec4399354d00d213e93e63df9e85f1
+Size: 107816
+Filename: enigma2-plugin-extensions-autobouquets-e2_201310201900-r2_mips32el.ipk
+Source: www.ukcvs.net
+Description: 28.2E stream bouquet downloader
+OE: N/A
+HomePage: www.ukcvs.net
+Priority: optional
+
+
+Package: enigma2-plugin-extensions-bildonline
+Version: 2.9rc13
+Section: extra
+Architecture: mips32el
+Maintainer: kashmir
+MD5Sum: a87479aafd857afa39840b4da53f6d30
+Size: 275622
+Filename: enigma2-plugin-extensions-bildonline_2.9rc13_mips32el.ipk
+Source: http://www.kashmir-plugins.de
+Description: BILD Online
+HomePage: http://www.kashmir-plugins.de
+Priority: optional
+
+
+Package: enigma2-plugin-extensions-bluray
+Version: 1.2
+Section: extra
+Architecture: mips32el
+Maintainer: kashmir
+MD5Sum: 988ba2f730a8011b7e6f52775917da92
+Size: 298032
+Filename: enigma2-plugin-extensions-bluray_1.2_mips32el.ipk
+Source: http://www.kashmir-plugins.de
+Description: Blu-ray & PS3 Database
+HomePage: http://www.kashmir-plugins.de
+Priority: optional
+
+
+Package: enigma2-plugin-extensions-buyukbangpanel
+Version: 1.3.2-r0
+Depends: libcurl4
+Provides: enigma2-plugin-extensions-hidezaperrors, enigma2-plugin-extensions-epgturkishfix, enigma2-plugin-extensions-epgexporter, enigma2-plugin-extensions-epgcurrentnextfix, enigma2-plugin-extensions-startuptostandby
+Replaces: enigma2-plugin-extensions-hidezaperrors, enigma2-plugin-extensions-epgturkishfix, enigma2-plugin-extensions-epgexporter, enigma2-plugin-extensions-epgcurrentnextfix, enigma2-plugin-extensions-startuptostandby
+Conflicts: enigma2-plugin-extensions-hidezaperrors, enigma2-plugin-extensions-epgturkishfix, enigma2-plugin-extensions-epgexporter, enigma2-plugin-extensions-epgcurrentnextfix, enigma2-plugin-extensions-startuptostandby
+Section: base
+Architecture: all
+Maintainer: Buyukbang
+MD5Sum: 2d760209a3b1fb22afeeca026cd6fbad
+Size: 96012
+Filename: enigma2-plugin-extensions-buyukbangpanel_1.3.2_all.ipk
+Source: file://enigma2-plugin-extensions-buyukbangpanel
+Description: This panel includes following unique features: Copy EPG, Link EPG, Filter EPG, Fix EPG Encoding, Hide Zap Errors, Scheduler, Conditional Startup to Standby
+OE: enigma2-plugin-extensions-buyukbangpanel
+HomePage: unknown
+License: proprietary
+Priority: optional
+
+
+Package: enigma2-plugin-extensions-chefkoch
+Version: 1.2rc1
+Depends: python-email
+Section: extra
+Architecture: mips32el
+Maintainer: kashmir
+MD5Sum: f631f6596bc3e2c659e13612b41b42bf
+Size: 288016
+Filename: enigma2-plugin-extensions-chefkoch_1.2rc1_mips32el.ipk
+Source: http://www.kashmir-plugins.de
+Description: Chefkoch.de 200.000 Rezepte
+HomePage: http://www.kashmir-plugins.de
+Priority: optional
+
+
+Package: enigma2-plugin-extensions-csfd
+Version: 9_40-20131117
+Section: base
+Architecture: all
+Maintainer: petrkl12@gmail.com
+MD5Sum: 590894743962be8b321879f4c29c9556
+Size: 1306944
+Filename: enigma2-plugin-extensions-csfd_9_40-20131117_all.ipk
+Source: None
+Description: Filmova databaze CSFD.cz
+OE: enigma2-plugins
+HomePage: http://code.google.com/p/csfdplugin/downloads/list
+License: unknown
+Priority: optional
+
+
+Package: enigma2-plugin-extensions-cubic_streamer
+Version: 0.7.2
+Section: extra
+Architecture: mips32el
+MD5Sum: 6921c1549f675d6b19853987e3e0db95
+Size: 266046
+Filename: enigma2-plugin-extensions-cubic_streamer_0.7.2_mips32el.ipk
+Description: CuBiC Multistreamer
+Priority: optional
+
+
+Package: enigma2-plugin-extensions-digitalfernsehen
+Version: 0.8rc1
+Section: extra
+Architecture: mips32el
+Maintainer: kashmir
+MD5Sum: aba7312a26a25a439fbdbe6ce0649f1e
+Size: 47734
+Filename: enigma2-plugin-extensions-digitalfernsehen_0.8rc1_mips32el.ipk
+Source: http://www.kashmir-plugins.de
+Description: DIGITALfernsehen Online
+HomePage: http://www.kashmir-plugins.de
+Priority: optional
+
+
+Package: enigma2-plugin-extensions-facebook
+Version: 0.6
+Section: extra
+Architecture: mips32el
+Maintainer: kashmir
+MD5Sum: 6432a52903358bce4eb4a116a5643d0c
+Size: 57238
+Filename: enigma2-plugin-extensions-facebook_0.6_mips32el.ipk
+Source: http://www.kashmir-plugins.de
+Description: Facebook Reader
+HomePage: http://www.kashmir-plugins.de
+Priority: optional
+
+
+Package: enigma2-plugin-extensions-filesearchfs
+Version: 2.53
+Section: misc
+Architecture: all
+Maintainer: shadowrider <plugins@fselbig.de>
+MD5Sum: c9f9cae4ed70b139741a4109a9181340
+Size: 46442
+Filename: enigma2-plugin-extensions-filesearchfs_2.53_all.ipk
+Description: filesearchFS search Files and Folders
+Priority: optional
+
+
+Package: enigma2-plugin-extensions-focusonline
+Version: 0.8rc2
+Section: extra
+Architecture: mips32el
+Maintainer: kashmir
+MD5Sum: 9c0a865a982207950afe091e6e4d66b8
+Size: 281454
+Filename: enigma2-plugin-extensions-focusonline_0.8rc2_mips32el.ipk
+Source: http://www.kashmir-plugins.de
+Description: FOCUS Online
+HomePage: http://www.kashmir-plugins.de
+Priority: optional
+
+
+Package: enigma2-plugin-extensions-glasssysutil
+Version: 5.37
+Section: base
+Architecture: all
+Maintainer: Skinmastersfun
+MD5Sum: 748bef731a91139867f2b0e770f0ba3d
+Size: 942518
+Filename: enigma2-plugin-extensions-glasssysutil_5.37_all.ipk
+Source: None
+Description: glasssysutil
+OE: enigma2-plugin-glasssysutil
+HomePage: unknown
+Priority: optional
+
+
+Package: enigma2-plugin-extensions-gmailreader-oe2.0
+Version: 1.3
+Section: extra
+Architecture: all
+Maintainer: mfaraj57
+MD5Sum: fb87595f217edc34eca4a8605baf5c5f
+Size: 202708
+Filename: enigma2-plugin-extensions-gmailreader-oe2.0_1.3_all.ipk
+Description: gmailreader
+OE: gmailreader 1.3
+HomePage: unknown
+Priority: optional
+
+
+Package: enigma2-plugin-extensions-googlenewsreader
+Version: 1.0
+Section: extra
+Architecture: mips32el
+Maintainer: mfaraj57
+MD5Sum: e32e9f64604c789e03b409f56b75c81b
+Size: 22810
+Filename: enigma2-plugin-extensions-googlenewsreader_1.0_mips32el.ipk
+Description: googlenewsreader
+OE: gmailreader 1.0
+HomePage: unknown
+Priority: optional
+
+
+Package: enigma2-plugin-extensions-hdmitest
+Version: 0.4
+Depends: enigma2
+Section: extra
+Architecture: mipsel
+Maintainer: ims <ims21@users.sourceforge.net>
+MD5Sum: be7f40a192809ad3c13445df1048b2b8
+Size: 6250
+Filename: enigma2-plugin-extensions-hdmitest_0.4_mipsel.ipk
+Source: xxxx
+Description: sending hdmi commands
+HomePage: xxxx
+Priority: optional
+
+
+Package: enigma2-plugin-extensions-heizoelpreisefs
+Version: 3.70
+Section: Utilities
+Architecture: all
+Maintainer: shadowrider plugins@fselbig.de
+MD5Sum: 09e0a62b8af45f14b5c77d3b52e4ac3e
+Size: 24022
+Filename: enigma2-plugin-extensions-heizoelpreisefs_3.70_all.ipk
+Description: HeizoelpreiseFS
+OE: all
+HomePage: www.fselbig/plugins
+Priority: optional
+
+
+Package: enigma2-plugin-extensions-hetweer
+Version: 2.4
+Section: extra
+Architecture: mips32el
+Maintainer: DEG 2013~!
+MD5Sum: 5e728684fb171a048a8ff84d8dacc4b9
+Size: 22666
+Filename: enigma2-plugin-extensions-hetweer_2.4_mips32el.ipk
+Description: Weather tools for NL & BE & GER
+OE: enigma2-plugin-extensions-systemtools
+Priority: optional
+
+
+Package: enigma2-plugin-extensions-kicker
+Version: 3.1rc4
+Section: extra
+Architecture: mips32el
+Maintainer: kashmir
+MD5Sum: fd64392f8781c6e366bef329b55db056
+Size: 3088926
+Filename: enigma2-plugin-extensions-kicker_3.1rc4_mips32el.ipk
+Source: http://www.kashmir-plugins.de
+Description: kicker Online Sportportal & Live-Ticker
+HomePage: http://www.kashmir-plugins.de
+Priority: optional
+
+
+Package: enigma2-plugin-extensions-kino
+Version: 1.1rc5
+Section: extra
+Architecture: mips32el
+Maintainer: kashmir
+MD5Sum: 59d0299348aae8b1136e891bc5b271b3
+Size: 68762
+Filename: enigma2-plugin-extensions-kino_1.1rc5_mips32el.ipk
+Source: http://www.kashmir-plugins.de
+Description: KINO.de Aktuelle Kinofilme
+HomePage: http://www.kashmir-plugins.de
+Priority: optional
+
+
+Package: enigma2-plugin-extensions-livefootball
+Version: 4.4
+Section: base
+Architecture: mips32el
+Maintainer: mFaraj <mfaraj57@gmail.com>
+MD5Sum: 472e272c85db610cb680d70e6b00a619
+Size: 1096496
+Filename: enigma2-plugin-extensions-livefootball_4.4_mips32el.ipk
+Source: dreamoem.com
+Description: live soccer matches,fixtures and results
+HomePage: dreamoem.com
+Priority: optional
+
+
+Package: enigma2-plugin-extensions-mediainfo
+Version: 0.6_r04
+Section: extra
+Architecture: all
+Maintainer: einfall
+MD5Sum: 85a41e7870dcca78448c20d9c0551d56
+Size: 10914
+Filename: enigma2-plugin-extensions-mediainfo_0.6_r04_all.ipk
+Description: Enigma2 Plugin
+
+
+Package: enigma2-plugin-extensions-mediaportal
+Version: 5.0.6a
+Depends: python-json, python-xml, python-html, python-misc, python-twisted-core, python-twisted-web, python-compression, python-robotparser, python-mechanize, gst-plugins-good-flv, gst-plugins-bad-fragmented, gst-plugins-bad-rtmp, librtmp1
+Section: extra
+Architecture: all
+Maintainer: MP
+MD5Sum: 243892a6b59bdacfa7e4e13b25b6a6ca
+Size: 4602754
+Filename: enigma2-plugin-extensions-mediaportal_5.0.6a_all.ipk
+Source: GIT
+Description: MediaPortal
+OE: MediaPortal
+HomePage: none
+Priority: optional
+
+
+Package: enigma2-plugin-extensions-moviebrowser
+Version: 2.8rc12
+Depends: python-misc
+Section: extra
+Architecture: mips32el
+Maintainer: kashmir
+MD5Sum: 02d8cd6c2d4c282c4782ee41a59c4171
+Size: 1540100
+Filename: enigma2-plugin-extensions-moviebrowser_2.8rc12_mips32el.ipk
+Source: http://www.kashmir-plugins.de
+Description: Movie Browser
+HomePage: http://www.kashmir-plugins.de
+Priority: optional
+
+
+Package: enigma2-plugin-extensions-mp3browser
+Version: 1.2
+Depends: python-mutagen
+Section: extra
+Architecture: mips32el
+Maintainer: kashmir
+MD5Sum: cf1305d60dc5da43bab54d9a9f8790e1
+Size: 735670
+Filename: enigma2-plugin-extensions-mp3browser_1.2_mips32el.ipk
+Source: http://www.kashmir-plugins.de
+Description: MP3 Browser
+HomePage: http://www.kashmir-plugins.de
+Priority: optional
+
+
+Package: enigma2-plugin-extensions-msnwetter
+Version: 0.6rc3
+Section: extra
+Architecture: mips32el
+Maintainer: kashmir
+MD5Sum: c8533ae51a72c8e6ab22bafeadddbcb8
+Size: 82934
+Filename: enigma2-plugin-extensions-msnwetter_0.6rc3_mips32el.ipk
+Source: http://www.kashmir-plugins.de
+Description: msn Wetter
+HomePage: http://www.kashmir-plugins.de
+Priority: optional
+
+
+Package: enigma2-plugin-extensions-mtv
+Version: 0.1
+Section: extra
+Architecture: mips32el
+Maintainer: unknown
+MD5Sum: 4ff6e40339c45035510980c7f998977d
+Size: 6038
+Filename: enigma2-plugin-extensions-mtv_0.1_mips32el.ipk
+Description: an other streaming plugin
+HomePage: unknown
+Priority: optional
+
+
+Package: enigma2-plugin-extensions-muzutv
+Version: 1.1rc4
+Section: extra
+Architecture: mips32el
+Maintainer: kashmir
+MD5Sum: a61c4d005def3beada2d215f1b5c9dbc
+Size: 160094
+Filename: enigma2-plugin-extensions-muzutv_1.1rc4_mips32el.ipk
+Source: http://www.kashmir-plugins.de
+Description: MUZU.TV Your Online Music TV
+HomePage: http://www.kashmir-plugins.de
+Priority: optional
+
+
+Package: enigma2-plugin-extensions-navibar
+Version: 1.1.1
+Section: extra
+Architecture: all
+Maintainer: hidden <hidden@www.newnigma2.to>
+MD5Sum: 501c4ff65ab6a3ff4c8e19b6849c1f5e
+Size: 409348
+Filename: enigma2-plugin-extensions-navibar_1.1.1_all.ipk
+Source: ftp://www.newnigma2.to/hidden/navibar-1.1.tar.gz
+Description: Enigma2 Plugin navibar by hidden
+OE: navibar-1.1
+HomePage: www.newnigma2.to
+Priority: optional
+
+
+Package: enigma2-plugin-extensions-newtube
+Version: 0.1a-r0
+Section: base
+Architecture: all
+Maintainer: pcd@i-have-a-dreambox
+MD5Sum: df1bd6dd04a80da584f2fb78919e9423
+Size: 12694
+Filename: enigma2-plugin-extensions-newtube_0.1a-r0_all.ipk
+Source: None
+Description: player for playback of youtube videos via vlc
+OE: software
+HomePage: unknown
+Priority: optional
+
+
+Package: enigma2-plugin-extensions-opkg-tools
+Version: 1.3
+Section: extra
+Architecture: mipsel
+Maintainer: original Hendrik Leesch <hendrik@leesch.de>, repacked/changed by Pedro_Newbie
+MD5Sum: 3df3adf4162a5c0ee982cfbf1574f237
+Size: 1079474
+Filename: enigma2-plugin-extensions-opkg-tools_1.3_mipsel.ipk
+Description: IPKG/OPKG Pack / Unpack Tools
+OE: ipkg-tools-1.0
+Priority: optional
+
+
+Package: enigma2-plugin-extensions-pluginspanel
+Version: 1.0_r01
+Section: extra
+Architecture: all
+Maintainer: mfaraj57 <mfaraj57@www.dreamoem.com>
+MD5Sum: dfc8fce40a3c1488325b06a0089229e7
+Size: 7902
+Filename: enigma2-plugin-extensions-pluginspanel_1.0_r01_all.ipk
+Source: ftp://www.www.dreamoem.com.to/
+Description: plugins panel
+OE: pluginspanel-1.0
+HomePage: www.dreamoem.com
+Priority: optional
+
+
+Package: enigma2-plugin-extensions-radiode
+Version: 0.1
+Section: extra
+Architecture: mips32el
+Maintainer: unknown
+MD5Sum: 95ee44614b27010705a84b2e13cf3b8f
+Size: 191332
+Filename: enigma2-plugin-extensions-radiode_0.1_mips32el.ipk
+Description: an other streaming plugin
+HomePage: unknown
+Priority: optional
+
+
+Package: enigma2-plugin-extensions-radioonline-oe2.0
+Version: 1.0
+Section: extra
+Architecture: all
+Maintainer: none
+MD5Sum: 3a491712fb64a2057a4c59b63f4f4ae8
+Size: 282292
+Filename: enigma2-plugin-extensions-radioonline-oe2.0_1.0_all.ipk
+Description: online radio streaming
+HomePage: none
+Priority: optional
+
+
+Package: enigma2-plugin-extensions-screengrabber
+Version: 2.1a
+Section: extra
+Architecture: mips32el
+Maintainer: mFaraj <mfaraj57@gmail.com>
+MD5Sum: 5f2c3564c8922dfce3ce96b9e99574f9
+Size: 121526
+Filename: enigma2-plugin-extensions-screengrabber_2.1a_mips32el.ipk
+Source: ./
+Description: take screenshot of receiver screen
+HomePage: tunisia-sat.com,dreamoem.com
+Priority: optional
+
+
+Package: enigma2-plugin-extensions-screensaver
+Version: 5.6.9
+Section: extra
+Architecture: all
+Maintainer: gutemine <gutemine@dummy.com>
+MD5Sum: f46d9e631b0129745f6418308aa80bde
+Size: 2336322
+Filename: enigma2-plugin-extensions-screensaver_5.6.9_all.ipk
+Source: ftp://www.dummy.com/gutemine/screensaver-5.6.tar.bz2
+Description: Screensaver for Enigma2
+OE: screensaver-5.6
+HomePage: www.dummy.com
+Priority: optional
+
+
+Package: enigma2-plugin-extensions-sherlock-vuplus
+Version: 5.01
+Depends: enigma2(>2.6git20091016)
+Section: extra
+Architecture: mipsel
+Maintainer: Vali
+MD5Sum: 65e393f322bf50ed6dea6f7949f472e7
+Size: 29070
+Filename: enigma2-plugin-extensions-sherlock-vuplus_5.01_mipsel.ipk
+Source: ValisPC
+Description: Sherlock
+OE: Sherlock
+HomePage: www.dreambox-tools.info
+Priority: optional
+
+
+Package: enigma2-plugin-extensions-skyrecorder
+Version: 1.5.1
+Depends: libsqlite3-0, python-sqlite3, python-html, python-json
+Provides: enigma2-plugin-extensions-skyrecorder
+Replaces: enigma2-plugin-extensions-skyanytime
+Conflicts: enigma2-plugin-extensions-skyanytime
+Section: misc
+Architecture: all
+Maintainer: einfall greysky
+MD5Sum: 45d66b62017e1e818bb4b0d3aeb19308
+Size: 250624
+Filename: enigma2-plugin-extensions-skyrecorder_1.5.1_all.ipk
+Source: http://www.vuplus-support.org/wbb2/thread.php?threadid=42015
+Description: SkyRecorder - a plugin to add automatically timers for new SKY broadcasts
+Priority: optional
+
+
+Package: enigma2-plugin-extensions-songs-to
+Version: 0.1
+Section: extra
+Architecture: mips32el
+Maintainer: unknown
+MD5Sum: 6b99d604d8a83001f08e82287f0b3d68
+Size: 21224
+Filename: enigma2-plugin-extensions-songs-to_0.1_mips32el.ipk
+Description: an other streaming plugin
+HomePage: unknown
+Priority: optional
+
+
+Package: enigma2-plugin-extensions-spiegelonline
+Version: 2.4rc2
+Section: extra
+Architecture: mips32el
+Maintainer: kashmir
+MD5Sum: 26a3949c7c18886fe777da5282eddb93
+Size: 259808
+Filename: enigma2-plugin-extensions-spiegelonline_2.4rc2_mips32el.ipk
+Source: http://www.kashmir-plugins.de
+Description: SPIEGEL Online
+HomePage: http://www.kashmir-plugins.de
+Priority: optional
+
+
+Package: enigma2-plugin-extensions-spinnerselector
+Version: 2.0r5
+Section: extra
+Architecture: mips32el
+Maintainer: aladin25
+MD5Sum: 45d946653c590b67cee92c4e332d1e06
+Size: 765968
+Filename: enigma2-plugin-extensions-spinnerselector_2.0r5_mips32el.ipk
+Source: unknown
+Description: Spinner wechseln MOD by Nobody28
+HomePage: n/a
+Priority: optional
+
+
+Package: enigma2-plugin-extensions-sport1ticker
+Version: 0.4
+Section: extra
+Architecture: all
+Maintainer: einfall
+MD5Sum: 7ec39fa756aaf522a79aa9477bfb1624
+Size: 9602
+Filename: enigma2-plugin-extensions-sport1ticker_0.4_all.ipk
+Description: Enigma2 Plugin
+
+
+Package: enigma2-plugin-extensions-sportmax
+Version: 1.2
+Section: misc
+Architecture: mips32el
+Maintainer: jav@
+MD5Sum: 0ab1c5c514d85b5b0a491eadb0092fd0
+Size: 13194
+Filename: enigma2-plugin-extensions-sportmax_1.2_mips32el.ipk
+Description: Sportmax - IPTV Bouquet Plugin edit by Nobody28
+Priority: optional
+
+
+Package: enigma2-plugin-extensions-sportportal
+Version: 2013
+Section: extra
+Architecture: all
+Maintainer: none
+MD5Sum: 032017b74c0534b9ade7cef805ea1e3a
+Size: 1225726
+Filename: enigma2-plugin-extensions-sportportal_2013_all.ipk
+Description: Formel 1 & Fussball Sport Portal
+Priority: optional
+
+
+Package: enigma2-plugin-extensions-subtitleplayer
+Version: 3.28
+Section: misc
+Architecture: mips32el
+Maintainer: ddamir
+MD5Sum: d1ab0343d254478370eb71370327a797
+Size: 231644
+Filename: enigma2-plugin-extensions-subtitleplayer_3.28_mips32el.ipk
+Description: subtitleplayer by ddamir
+Priority: optional
+
+
+Package: enigma2-plugin-extensions-systemtools-for-ppanels
+Version: 0.83
+Depends: enigma2-plugin-extensions-ppanel, smartmontools, ntpdate, hdparm
+Section: extra
+Architecture: mipsel
+Maintainer: Rob van der Does
+MD5Sum: 747c14cacdd8e09251b42a8dc250f90b
+Size: 5770
+Filename: enigma2-plugin-extensions-systemtools-for-ppanels_0.83_mipsel.ipk
+Description: Various systemtools for the use in ppanels
+HomePage: http://www.world-of-satellite.com
+Priority: optional
+
+
+Package: enigma2-plugin-extensions-thetvdb
+Version: 0.7-20120607-r1
+Depends: python-pprint
+Section: extra
+Architecture: mips32el
+Maintainer: JackDaniel
+MD5Sum: 87d30f1f4ef6e7edf0c6ff577d5ab69d
+Size: 79694
+Filename: enigma2-plugin-extensions-thetvdb_0.7-20120607-r1_mips32el.ipk
+Source: http://www.i-have-a-dreambox.com
+Description: Query infos from thetvdb.com
+OE: enigma2-plugin-extensions-thetvdbinfo
+HomePage: http://www.i-have-a-dreambox.com
+Priority: optional
+
+
+Package: enigma2-plugin-extensions-tmdbinfo
+Version: 1.1-20130929-r0-r1
+Section: extra
+Architecture: mips32el
+Maintainer: JackDaniel
+MD5Sum: 3e4846e26fa784401cb649b4080f335c
+Size: 125796
+Filename: enigma2-plugin-extensions-tmdbinfo_1.1-20130929-r0-r1_mips32el.ipk
+Source: http://www.i-have-a-dreambox.com
+Description: Query infos from themoviedb.org
+OE: enigma2-plugin-extensions-tmdbinfo
+HomePage: http://www.i-have-a-dreambox.com
+Priority: optional
+
+
+Package: enigma2-plugin-extensions-translator
+Version: 0.5rc5
+Section: extra
+Architecture: mips32el
+Maintainer: kashmir
+MD5Sum: 08d2c8ec82d1457a071587ed6f89312f
+Size: 1801852
+Filename: enigma2-plugin-extensions-translator_0.5rc5_mips32el.ipk
+Source: http://www.kashmir-plugins.de
+Description: (EPG) Translator
+HomePage: http://www.kashmir-plugins.de
+Priority: optional
+
+
+Package: enigma2-plugin-extensions-transmission
+Version: 2.76-r13884
+Depends: update-rc.d, libevent (>= 2.0.10), libcurl4 (>= 7.19.7), libc6 (>= 2.10), libgnutls26 (>= 2.4.2), libgcrypt11 (>= 1.4.4), libgpg-error0 (>= 1.4), libssl0.9.8 (>= 0.9.8j), libcrypto0.9.8 (>= 0.9.8j), libz1 (>= 1.2.3)
+Section: network
+Architecture: mips32el
+Maintainer: OpenEmbedded Team <openembedded-devel@lists.openembedded.org>
+MD5Sum: 40175a7a7dc42f093d5091ebfb4c64d3
+Size: 766270
+Filename: enigma2-plugin-extensions-transmission_2.76-r13884_mips32el.ipk
+Source: http://mirrors.m0k.org/transmission/files/transmission-2.76.tar.bz2;name=archive
+Description: Transmission is a BitTorrent client w/ a built-in Ajax-Powered Webif GUI.
+OE: transmission-2.76
+HomePage: www.transmissionbt.com/
+License: GPLv2
+Priority: optional
+
+
+Package: enigma2-plugin-extensions-tsmedia-oe2.0
+Version: 4.6
+Depends: gst-plugins-ugly-cdio, gst-plugins-bad-rtmp, gst-plugins-bad-fragmented, gst-plugins-ugly-asf, gst-plugins-bad-vcdsrc, gst-plugins-bad-cdxaparse, gst-plugins-good-flv, gst-plugins-bad-mms ,python-json,python-pyopenssl,python-compression
+Section: extra
+Architecture: all
+Maintainer: mfaraj57 <@tunisia-sat.com>
+MD5Sum: e4f5f31ba3d378f571b598a5a2c606d2
+Size: 2105238
+Filename: enigma2-plugin-extensions-tsmedia-oe2.0_4.6_all.ipk
+Source: file://TSmedia
+Description: streaming of all types of internet media
+OE: enigma2-plugin-extensions-tsmedia
+HomePage: http://www.tunisia-sat.com
+License: CLOSED
+Priority: optional
+
+
+Package: enigma2-plugin-extensions-tvspielfilm
+Version: 5.9rc5
+Section: extra
+Architecture: mips32el
+Maintainer: kashmir
+MD5Sum: c0c31b51a4dca534b369459bbd431247
+Size: 1857604
+Filename: enigma2-plugin-extensions-tvspielfilm_5.9rc5_mips32el.ipk
+Source: http://www.kashmir-plugins.de
+Description: TV Spielfilm
+HomePage: http://www.kashmir-plugins.de
+Priority: optional
+
+
+Package: enigma2-plugin-extensions-vcs
+Version: 1.0-rc5
+Depends: enigma2
+Section: base
+Architecture: all
+Maintainer: vlamo <vlamodev@gmail.com>
+MD5Sum: 2a8b3bd62811dd07abbda6c387c20a7b
+Size: 11914
+Filename: enigma2-plugin-extensions-vcs_1.0-rc5_all.ipk
+Description: video clipmodes switcher for enigma2
+OE: enigma2
+HomePage: http://dreamboxfans.ru/forum
+Priority: optional
+
+
+Package: enigma2-plugin-extensions-verkehrsinfo
+Version: 0.7rc1
+Section: extra
+Architecture: mips32el
+Maintainer: kashmir
+MD5Sum: 721600a8ad9ffe707b68dd35e06a2356
+Size: 399680
+Filename: enigma2-plugin-extensions-verkehrsinfo_0.7rc1_mips32el.ipk
+Source: http://www.kashmir-plugins.de
+Description: verkehrsinfo.de
+HomePage: http://www.kashmir-plugins.de
+Priority: optional
+
+
+Package: enigma2-plugin-extensions-vuplusforum
+Version: 0.7rc3
+Section: extra
+Architecture: mips32el
+Maintainer: kashmir
+MD5Sum: b1ec2115cd15cb916d49c2a75046f4a2
+Size: 79988
+Filename: enigma2-plugin-extensions-vuplusforum_0.7rc3_mips32el.ipk
+Source: http://www.kashmir-plugins.de
+Description: VuPlus Support Forum
+HomePage: http://www.kashmir-plugins.de
+Priority: optional
+
+
+Package: enigma2-plugin-extensions-webmedia
+Version: 10.0_r02_oe2.0
+Depends: rtmpdump
+Section: extra
+Architecture: all
+Maintainer: pcd@www.i-have-a-dreambox.com>
+MD5Sum: 5edf9b732480a176055002304d5a3b4d
+Size: 137708
+Filename: enigma2-plugin-extensions-webmedia_10.0_r02_oe2.0_all.ipk
+Source: None
+Description: Enigma2 Plugin WebMedia by pcd
+OE: webmedia-10.0
+HomePage: www.i-have-a-dreambox.com
+Priority: optional
+
+
+Package: enigma2-plugin-extensions-wikipedia
+Version: 1.9rc1
+Section: extra
+Architecture: mips32el
+Maintainer: kashmir
+MD5Sum: f029c053009e481c3d26ffa8e6e1d38b
+Size: 192000
+Filename: enigma2-plugin-extensions-wikipedia_1.9rc1_mips32el.ipk
+Source: http://www.kashmir-plugins.de
+Description: Wikipedia Online
+HomePage: http://www.kashmir-plugins.de
+Priority: optional
+
+
+Package: enigma2-plugin-extensions-xbmcaddons
+Version: 5.0_r0
+Section: extra
+Architecture: all
+Maintainer: pcd@www.i-have-a-dreambox.com
+MD5Sum: 7d8041e833ff80ac51e17cd337e3887e
+Size: 759430
+Filename: enigma2-plugin-extensions-xbmcaddons_5.0_r0_all.ipk
+Source: None
+Description: Enigma2 Plugin XBMCAddons by pcd
+OE: xbmcaddons
+HomePage: pcd@www.i-have-a-dreambox.com
+Priority: optional
+
+
+Package: enigma2-plugin-extensions-xbmcwetter
+Version: 1.0rc4
+Section: extra
+Architecture: mips32el
+Maintainer: kashmir
+MD5Sum: 9ffd7f842fe11008f0a4419263465e4f
+Size: 6892210
+Filename: enigma2-plugin-extensions-xbmcwetter_1.0rc4_mips32el.ipk
+Source: http://www.kashmir-plugins.de
+Description: xbmc Wetter
+HomePage: http://www.kashmir-plugins.de
+Priority: optional
+
+
+Package: enigma2-plugin-extensions-xtrendforum
+Version: 0.1rc2
+Section: extra
+Architecture: mips32el
+Maintainer: kashmir
+MD5Sum: 9413245c18bd104307b713c27849209c
+Size: 95788
+Filename: enigma2-plugin-extensions-xtrendforum_0.1rc2_mips32el.ipk
+Source: http://www.kashmir-plugins.de
+Description: Xtrend Support Forum
+HomePage: http://www.kashmir-plugins.de
+Priority: optional
+
+
+Package: enigma2-plugin-extensions-yampmusicplayer
+Version: 2.1.1-2012-09-23
+Depends: python-mutagen, python-twisted-web, python-sqlite3
+Section: extra
+Architecture: mipsel
+Maintainer: JohnHenry
+MD5Sum: 76a66b082987011924773b615f899b3c
+Size: 67726
+Filename: enigma2-plugin-extensions-yampmusicplayer_2.1.1-2012-09-23_mipsel.ipk
+Description: YAMP - Yet Another Music Player
+License: GPL v2 or later
+Priority: optional
+
+
+Package: enigma2-plugin-extensions-zdfnewmediathek
+Version: 1.3rc6
+Section: extra
+Architecture: mips32el
+Maintainer: kashmir
+MD5Sum: 12f070a90f676b047a3e14df9500c208
+Size: 339764
+Filename: enigma2-plugin-extensions-zdfnewmediathek_1.3rc6_mips32el.ipk
+Source: http://www.kashmir-plugins.de
+Description: ZDF Mediathek
+HomePage: http://www.kashmir-plugins.de
+Priority: optional
+
+
+Package: enigma2-plugin-systemplugins-bouquetsprotection
+Version: 0.2-rc1
+Depends: enigma2
+Section: base
+Architecture: all
+Maintainer: vlamo <vlamo@ukr.net>
+MD5Sum: 85b1018dd4253caf2a9b6d7c39a66b2c
+Size: 8724
+Filename: enigma2-plugin-systemplugins-bouquetsprotection_0.2-rc1_all.ipk
+Source: http://dream.altmaster.net/
+Description: systemplugins Bouquets Protection.
+OE: enigma2
+HomePage: http://dream.altmaster.net/
+Priority: optional
+
+
+Package: enigma2-plugin-systemplugins-lcnscanner
+Version: 1.0-r4
+Section: base
+Architecture: mips32el
+Maintainer: OpenEmbedded Team <openembedded-devel@lists.openembedded.org>
+MD5Sum: c30d35e85c44fbb591da9f9b14fcd8b4
+Size: 21886
+Filename: enigma2-plugin-systemplugins-lcnscanner_1.0-r4_mips32el.ipk
+Source: svn://sifapps.googlecode.com/svn/trunk;module=lcnscanner;proto=https;rev=4
+Description: LCN scanner for DVB-T services
+OE: enigma2-plugin-systemplugins-lcnscanner
+HomePage: http://code.google.com/p/sifapps
+License: GPLv2
+Priority: optional
+
+
+Package: enigma2-plugin-systemplugins-recordinfobar
+Version: 1.0-rc15
+Depends: enigma2
+Section: base
+Architecture: mipsel
+Maintainer: vlamo <vlamo@ukr.net>
+MD5Sum: 74a495b55dc941107f2518c411caf049
+Size: 9972
+Filename: enigma2-plugin-systemplugins-recordinfobar_1.0-rc15_mipsel.ipk
+Description: Record Infobar Plugin for Enigma2 Dreamboxes.
+OE: enigma2
+HomePage: http://dream.altmaster.net
+Priority: optional
+
+
